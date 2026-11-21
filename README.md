@@ -61,4 +61,6 @@ service providers handling frequent customer enquiries.
 **Problem it solves:** Reduces the time staff spend searching documents and
 writing repetitive answers about orders, delivery, returns, and products.
 **Stack:** Python, Flask, Anthropic Claude Haiku API, Markdown/text retrieval,
-pytest. Packaged for delivery; not currently deployed on Render.
+pytest.
+**Live link:** [goodday-business-ai-assistant.onrender.com](https://goodday-business-ai-assistant.onrender.com)
+**GitHub:** [github.com/anindozedeck/BUSINESS-AI-ASSISTANT](https://github.com/anindozedeck/BUSINESS-AI-ASSISTANT)
