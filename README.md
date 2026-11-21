@@ -49,3 +49,16 @@ Run tests with:
 ```powershell
 python -m pytest -q
 ```
+
+## Portfolio entry
+
+**Goodday Business AI Assistant**
+
+**What it does:** Answers customer questions using relevant passages from a
+business's FAQs, product information, and policies.
+**Who it helps:** Kenyan small businesses, especially online retailers and
+service providers handling frequent customer enquiries.
+**Problem it solves:** Reduces the time staff spend searching documents and
+writing repetitive answers about orders, delivery, returns, and products.
+**Stack:** Python, Flask, Anthropic Claude Haiku API, Markdown/text retrieval,
+pytest. Packaged for delivery; not currently deployed on Render.
