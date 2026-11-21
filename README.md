@@ -23,16 +23,6 @@ python app.py
 Open http://127.0.0.1:5000. Check `http://127.0.0.1:5000/health` for service
 status. Never commit `.env`, real API keys, or private customer information.
 
-## Deploy on Render
-
-This project is flat, so use the repository root as the Render root directory.
-
-- Build command: `pip install -r requirements.txt`
-- Start command: `gunicorn app:app`
-- Add `ANTHROPIC_API_KEY` in the Render service's Environment settings.
-- Use an always-on service plan for continuous availability; free instances may
-  spin down when idle.
-
 ## Response speed and availability
 
 The app uses Claude Haiku, limits retrieved context and output size, and bounds
