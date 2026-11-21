@@ -52,7 +52,12 @@ python -m pytest -q
 
 ## Portfolio entry
 
-**Goodday Business AI Assistant**
+## Goodday Business AI Assistant
+
+[![Goodday Business AI Assistant](screenshot.png)](https://goodday-business-ai-assistant.onrender.com)
+
+**Live demo:** [goodday-business-ai-assistant.onrender.com](https://goodday-business-ai-assistant.onrender.com)  
+**Repository:** [github.com/anindozedeck/BUSINESS-AI-ASSISTANT](https://github.com/anindozedeck/BUSINESS-AI-ASSISTANT)
 
 **What it does:** Answers customer questions using relevant passages from a
 business's FAQs, product information, and policies.
@@ -62,5 +67,3 @@ service providers handling frequent customer enquiries.
 writing repetitive answers about orders, delivery, returns, and products.
 **Stack:** Python, Flask, Anthropic Claude Haiku API, Markdown/text retrieval,
 pytest.
-**Live link:** [goodday-business-ai-assistant.onrender.com](https://goodday-business-ai-assistant.onrender.com)
-**GitHub:** [github.com/anindozedeck/BUSINESS-AI-ASSISTANT](https://github.com/anindozedeck/BUSINESS-AI-ASSISTANT)
